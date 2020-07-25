@@ -10,3 +10,14 @@ Step 4a will be an attempt to employ natural language processing functions to pa
 Reliabilty will be measured to understand the efficacy of Step 4a.
 Addresses a need to improve the speed and efficiency of analyzing documents for institutions -- seen as a major 
 barrier to more fully exploring the theory.
+
+I am learning the following:
+
+javascript
+nodejs
+git and github
+vs code (impressive tool)
+natural language processing
+and a few other things along the way.
+
+This will either be wildly successful or I will learn trying!
